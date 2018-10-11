@@ -6,7 +6,7 @@
    "source": [
     "# Exact mean field approximation\n",
     "\n",
-    "[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/danhtaihoang/network-inference/master?filepath=sphinx%2Fcodesource%2Femf.ipynb)\n",
+    "[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nihcompmed/network-inference/master?filepath=sphinx%2Fcodesource%2Femf.ipynb)\n",
     "\n",
     "Exact mean field (eMF) is another mean field approximation, similar to nMF and TAP. We show in the following that we can improve the performance of this method by adding our stopping criterion. In general, eMF outperforms nMF and TAP, but it is still worse than FEM and MLE, especially in the limit of small sample sizes and large coupling variability."
    ]

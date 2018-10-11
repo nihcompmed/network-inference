@@ -6,7 +6,7 @@
    "source": [
     "# Comparison: MLE vs. FEM\n",
     "\n",
-    "[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/danhtaihoang/network-inference/master?filepath=sphinx%2Fcodesource%2Fcomparison.ipynb)\n",
+    "[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nihcompmed/network-inference/master?filepath=sphinx%2Fcodesource%2Fcomparison.ipynb)\n",
     "\n",
     "As shown in the previous sections, it is clear that mean field approximations such as nMF, TAP, and eMF do not perform as well as MLE and FEM. In the following, we therefore focus only MLE and FEM. We demonstrate that FEM works as well as MLE in the small coupling variability regime but FEM outperforms MLE in the difficult large coupling variability regime.\n",
     "\n",

@@ -6,7 +6,7 @@
    "source": [
     "# Maximum Likelihood Estimation \n",
     "\n",
-    "[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/danhtaihoang/network-inference/master?filepath=sphinx%2Fcodesource%2Fmle.ipynb)\n",
+    "[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nihcompmed/network-inference/master?filepath=sphinx%2Fcodesource%2Fmle.ipynb)\n",
     "\n",
     "Maximum likelihood estimation (MLE) is a standard method in the field of network inference. The MLE algorithm for the kinetic Ising model contains the following steps:\n",
     "\n",

@@ -6,7 +6,7 @@
    "source": [
     "# Non-linear interactions\n",
     "\n",
-    "[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/danhtaihoang/network-inference/master?filepath=sphinx%2Fcodesource%2Fquadratic_notebook.ipynb)\n",
+    "[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nihcompmed/network-inference/master?filepath=sphinx%2Fcodesource%2Fquadratic_notebook.ipynb)\n",
     "\n",
     "\n",
     "When the interactions between variables contains not only linear terms but also\n",
