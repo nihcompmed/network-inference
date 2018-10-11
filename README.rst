@@ -10,15 +10,15 @@ Interactive notebook
 Use Binder to run our code online. You are welcome to change the parameters and edit the jupyter notebooks as you want. 
 
 .. image:: https://mybinder.org/badge.svg
-   :target: https://mybinder.org/v2/gh/danhtaihoang/network-inference/master?filepath=sphinx%2Fcodesource
+   :target: https://mybinder.org/v2/gh/nihcompmed/network-inference/master?filepath=sphinx%2Fcodesource
 
 Links
 ----------------------------
 Code Documentation
-    https://danhtaihoang.github.io/network-inference
+    https://nihcompmed.github.io/network-inference
 
 Code Source
-    https://github.com/danhtaihoang/network-inference
+    https://github.com/nihcompmed/network-inference
 
 Reference
 ----------------------------
