@@ -1,0 +1,9 @@
+name: network-environment
+channels:
+  - conda-forge
+dependencies:
+  - python=2.7
+  - numpy
+  - pip:
+    - matplotlib
+    - scipy
